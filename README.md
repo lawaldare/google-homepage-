@@ -1,8 +1,9 @@
 
-google-homepage
 
-View the file here: Google Homepage Clone
+This is a replica of the google homepage (easy) for The Odin Project's WebDev Course.
 
-This page is an Odin Project assignment where I needed to deconstruct a webpage and build it again. I don't suspect anyone will need or want this, but feel free to do whatever makes you happy!
 
-From The Odin Project's curriculum
+
+Finished thoughts:
+
+Definitely took longer than I had expected, and I was able to learn new things about positioning of divs and <input>. And I am so glad that I could pull it off.
